@@ -33,6 +33,5 @@ Este proyecto en Jupyter Notebook realiza un análisis de datos de ventas de la 
    git clone https://github.com/tu_usuario/AluraStoreLatam.git
    cd AluraStoreLatam
 
---- RAMOS ADUVIRI RUSBEL
+👤 [RAMOS ADUVIRI RUSBEL]
 
-¿Te gustaría que incluya gráficos del notebook como imágenes? ¿O que genere un resumen de cada celda del análisis también?
